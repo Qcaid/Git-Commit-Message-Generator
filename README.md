@@ -4,7 +4,7 @@
 
 一个专为开发者设计的、界面温柔可爱的 Git 提交信息生成工具，支持自定义类型、emoji 自动匹配、一键复制、重置与个性化设置，助你轻松规范提交信息，让每一次 commit 都充满仪式感！
 
-![screenshot](https://user-images.githubusercontent.com/your-screenshot.png)
+![screenshot](https://img.vegecai.moe/gic.png)
 
 ---
 
